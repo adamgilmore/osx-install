@@ -5,6 +5,7 @@ brew cask install google-chrome
 brew cask install slack
 brew cask install microsoft-office
 brew cask install skype-for-business
+brew cask install skitch
 
 brew cask install visual-studio-code
 brew cask install visual-studio-code-insiders
