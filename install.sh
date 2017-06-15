@@ -10,6 +10,7 @@ brew cask install skitch
 brew cask install visual-studio-code
 brew cask install visual-studio-code-insiders
 brew install go --cross-compile-common
+brew install go-delve/delve/delve
 brew install docker-clean
 brew install bash-completion
 
