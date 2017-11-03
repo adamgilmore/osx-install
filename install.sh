@@ -14,6 +14,8 @@ brew install go-delve/delve/delve
 brew install docker-clean
 brew install bash-completion
 
+brew install python3
+
 brew update
 brew upgrade brew-cask
 brew cleanup
