@@ -7,6 +7,7 @@ brew cask install microsoft-office
 brew cask install skype-for-business
 brew cask install skitch
 
+breew install git
 brew cask install visual-studio-code
 brew cask install visual-studio-code-insiders
 brew install go --cross-compile-common
