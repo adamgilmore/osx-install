@@ -4,10 +4,10 @@ brew cask install cheatsheet
 brew cask install google-chrome
 brew cask install skitch
 
-# Old stuff
-brew cask install slack
-brew cask install microsoft-office
-brew cask install skype-for-business
+######### Old stuff #########
+# brew cask install slack
+# brew cask install microsoft-office
+# brew cask install skype-for-business
 
 brew install git
 brew cask install visual-studio-code
