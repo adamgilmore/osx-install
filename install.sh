@@ -2,12 +2,14 @@ brew update
 
 brew cask install cheatsheet
 brew cask install google-chrome
+brew cask install skitch
+
+# Old stuff
 brew cask install slack
 brew cask install microsoft-office
 brew cask install skype-for-business
-brew cask install skitch
 
-breew install git
+brew install git
 brew cask install visual-studio-code
 brew cask install visual-studio-code-insiders
 brew install go --cross-compile-common
