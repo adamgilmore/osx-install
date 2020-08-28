@@ -6,8 +6,9 @@ brew cask install skitch
 
 ######### Old stuff #########
 # brew cask install slack
-# brew cask install microsoft-office
 # brew cask install skype-for-business
+
+brew cask install microsoft-office
 
 brew install git
 brew cask install visual-studio-code
