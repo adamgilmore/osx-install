@@ -1,24 +1,15 @@
 brew update
 
-brew cask install cheatsheet
-brew cask install google-chrome
-
 ######### Old stuff #########
-# brew cask install skitch
-# brew cask install slack
-# brew cask install skype-for-business
+# brew install --cask skitch
+# brew install --cask slack
+# brew install --cask skype-for-business
 
-brew cask install microsoft-office
+brew install --cask microsoft-office
 
 brew install git
-brew cask install visual-studio-code
-brew cask install visual-studio-code-insiders
+brew install --cask visual-studio-code
 brew install go --cross-compile-common
-brew install go-delve/delve/delve
-brew install docker-clean
-brew install bash-completion
-
-brew install python3
 
 brew update
 brew upgrade brew-cask
