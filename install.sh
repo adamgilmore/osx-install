@@ -11,6 +11,18 @@ brew install git
 brew install --cask visual-studio-code
 brew install go --cross-compile-common
 
+######### Core dev tooling #########
+brew install --cask iterm2
+brew install --cask google-chrome
+brew install --cask docker
+brew install gh
+brew install tmux
+
+######### AI CLI tools #########
+brew install --cask claude-code
+brew install --cask opencode-desktop
+brew install gemini-cli
+
 brew update
 brew upgrade brew-cask
 brew cleanup
