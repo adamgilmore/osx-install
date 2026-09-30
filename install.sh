@@ -44,6 +44,10 @@ brew install --cask obsidian
 ######### Cloud storage #########
 brew install --cask onedrive
 
+######### Communication #########
+brew install --cask microsoft-teams
+brew install --cask whatsapp
+
 ######### VM & networking #########
 brew install --cask parallels
 brew install --cask parallels-toolbox
